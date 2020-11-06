@@ -29,6 +29,6 @@
         </div> <!-- Close Row 2 -->
     </div> <!-- Close container -->
     <br>
-    <center><h3><a href="index2.html">Card Web</a></h3></center>
+    <center><h3><a href="indexk.html">Card Web</a></h3></center>
 </body>
 </html>
